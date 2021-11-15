@@ -3,31 +3,30 @@
     "id": 1,
     "nombre": "Jason",
     "apellido": "Becker",
-    "litros": "23"
+    "litros": 23
   },
     {
     "id": 2,
     "nombre": "Ezequiel",
     "apellido": "Sims",
-    "litros": "126"
+    "litros": 126
   },
   {
     "id": 3,
     "nombre": "Alex",
     "apellido": "Smith",
-    "litros": "63"
+    "litros": 63
   },
   {
     "id": 4,
     "nombre": "Jessica",
     "apellido": "Johnson",
-    "litros": "27"
+    "litros": 47
   },
   {
     "id": 5,
     "nombre": "Elizabeth",
     "apellido": "Meinerding",
-    "litros": "89"
-  },
-
+    "litros": 89
+  }
 ]
