@@ -9,11 +9,11 @@
   ],
   "items":
   [
-    {"id": 1, "nombre": "Jason", "apellido": "Becker", "litros": 23},
-    {"id": 2, "nombre": "Ezequiel", "apellido": "Sims", "litros": 126},
-    {"id": 3, "nombre": "Alex", "apellido": "Smith", "litros": 63},
-    {"id": 4, "nombre": "Jessica", "apellido": "Johnson", "litros": 47},
-    {"id": 5, "nombre": "Elizabeth", "apellido": "Meinerding", "litros": 89},
-    {"id": 6, "nombre": "Martin", "apellido": "Stewart", "litros": 39}
+    {"id": 1, "title": "Olla", "apellido": "Becker", "price": "S/23.00"},
+    {"id": 2, "title": "Audifonos", "apellido": "Sims", "price": "S/126"},
+    {"id": 3, "title": "Refrigeradora", "apellido": "Smith", "price": "S/63"},
+    {"id": 4, "title": "Lavadora", "apellido": "Johnson", "price": "S/47"},
+    {"id": 5, "title": "Laptop", "apellido": "Meinerding", "price": "S/89"},
+    {"id": 6, "title": "Televisor", "apellido": "Stewart", "price": "S/39"}
   ]
 }
